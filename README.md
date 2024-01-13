@@ -35,10 +35,10 @@ To view the website locally:
    
 ## 📷 Screenshots
 <div>
-   <h2 align="center"><img src="./Screenshot 1.png" alt="Screenshot" width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshot 2.png" alt="Screenshot" width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshot 3.png" alt="Screenshot" width="300" height="300"></h2>
-   <h2 align="center"><img src="./Screenshot 4.png" alt="Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshot 1.png" alt="Screenshot" width="800" height="300"></h2>
+   <h2 align="center"><img src="./Screenshot 2.png" alt="Screenshot" width="800" height="300"></h2>
+   <h2 align="center"><img src="./Screenshot 3.png" alt="Screenshot" width="800" height="300"></h2>
+   <h2 align="center"><img src="./Screenshot 4.png" alt="Screenshot" width="800" height="300"></h2>
 </div>
 
 ## 😀 Contributing
